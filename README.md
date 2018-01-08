@@ -26,19 +26,18 @@ list of main features:
 * daily recipe suggestion based on earlier used recipes
   
 ## Prerequisites  
-Datasources:  
-  
-Yummly 
+#### Datasources:  
+Yummly  
 To do: leave out unneccesairy information
 link: https://developer.yummly.com/documentation  
   
-External components:  
+#### External components:  
 Firebase  
   
-Similar apps:  
+#### Similar apps:  
 Recipes by Ingredients (https://itunes.apple.com/us/app/recipes-by-ingredients/id605509474?mt=8)  
 This app is very userunfriendly. It is more like a web app in stead of a native app. I want to improve the way to fill in the ingredients by using autocomplete. This app doesn't remember the recipes the user has made, I want to give the user daily recipe suggestions based on often used ingredients or cuisines. This app is not focussed on stopping food waste. I want to give the user points for every ingredient that is not spilled.  
   
-Hardest parts:  
+#### Hardest parts:  
 Using the API  
 Fill in the ingredients
