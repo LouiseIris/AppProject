@@ -16,11 +16,11 @@ list of main features:
 * fill in ingredients MVP  
 * autocomplete ingredients search
 * order found recipes with recipes that use the filled in ingredients the most on top 
-* save recipe  
-* add ingredient to grocerylist  
-* list saved recipes  
-* list ingredients that need to be bought  
-* filter recipes by course, allergies, preperation time
+* save recipe MVP  
+* add ingredient to grocerylist MVP  
+* list saved recipes MVP  
+* list ingredients that need to be bought MVP  
+* filter recipes by course, cuisine, allergies, preperation time MVP
 * get points for ingredients that are not spilled
 * leaderboard with most environmentally conscious persons
 * daily recipe suggestion based on earlier used recipes
