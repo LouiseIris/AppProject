@@ -12,8 +12,33 @@ This app will let the user fill in the ingredients they have at home and then th
 SKETCH  
   
 list of main features:  
-* yo  
+* login MVP  
+* fill in ingredients MVP  
+* autocomplete ingredients search
+* order found recipes with recipes that use the filled in ingredients the most on top 
+* save recipe  
+* add ingredient to grocerylist  
+* list saved recipes  
+* list ingredients that need to be bought  
+* filter recipes by course, allergies, preperation time
+* get points for ingredients that are not spilled
+* leaderboard with most environmentally conscious persons
+* daily recipe suggestion based on earlier used recipes
   
 ## Prerequisites  
 Datasources:  
-* Collection of recipes: http://openrecipes.s3.amazonaws.com/openrecipes.txt (json)  
+  
+Yummly 
+To do: leave out unneccesairy information
+link: https://developer.yummly.com/documentation  
+  
+External components:  
+Firebase  
+  
+Similar apps:  
+Recipes by Ingredients (https://itunes.apple.com/us/app/recipes-by-ingredients/id605509474?mt=8)  
+This app is very userunfriendly. It is more like a web app in stead of a native app. I want to improve the way to fill in the ingredients by using autocomplete. This app doesn't remember the recipes the user has made, I want to give the user daily recipe suggestions based on often used ingredients or cuisines. This app is not focussed on stopping food waste. I want to give the user points for every ingredient that is not spilled.  
+  
+Hardest parts:  
+Using the API  
+Fill in the ingredients
