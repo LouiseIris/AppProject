@@ -5,7 +5,7 @@ This recipes app will let the user search for recipes with the ingredients the u
 ## Problem statement  
 Some people have leftover ingredients at home and often it will be spoiled, because they don't know what to do with it.
 To tackle the problem of food waste, this app will help people to use the leftover ingredients.  
-The app is meant for people who can't think of a recipe for their ingredients.  
+The app is meant for people who can't think of a recipe for their ingredients and who want to be environmantally conscious.  
   
 ## Solution  
 This app will let the user fill in the ingredients they have at home and then they will get several recipes they can make with that.  
