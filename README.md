@@ -28,7 +28,7 @@ list of main features:
 ## Prerequisites  
 #### Datasources:  
 Yummly  
-To do: leave out unneccesairy information
+To do: leave out unneccesairy information  
 link: https://developer.yummly.com/documentation  
   
 #### External components:  
