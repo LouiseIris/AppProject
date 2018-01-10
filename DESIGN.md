@@ -1,7 +1,7 @@
 # Design Document  
   
 #### Sketch  
-<img src=https://github.com/LouiseIris/AppProject/blob/master/advancedsketch1.jpg width="700"><img src=https://github.com/LouiseIris/AppProject/blob/master/advancedsketch2.jpg width="700">
+<img src=https://github.com/LouiseIris/AppProject/blob/master/advancedSketch1.jpg width="700"><img src=https://github.com/LouiseIris/AppProject/blob/master/advancedSketch2.jpg width="700">
 
 #### Classes:  
 Class LogInViewController:  
