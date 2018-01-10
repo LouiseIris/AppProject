@@ -84,7 +84,8 @@ Class PointsViewController:
   * savedLabel
   * leaderboardButton
 * Operations:
-  * 
+  * Points function
+  * to LeaderboardViewController
   
 Class LeaderboardViewController:
 * Attributes:
@@ -93,8 +94,9 @@ Class LeaderboardViewController:
   * backButton
 * Operations:
   * HighestScore function to find users with most points in Firebase
+  * to PointsViewController
   
-#### API's and Frameworks:  
+#### API's and Frameworks  
 * Yummly API: https://api.yummly.com
 * Firebase:
   * Authentication
@@ -103,3 +105,25 @@ Class LeaderboardViewController:
   * Database for points
 * SerchTextField pod
   
+#### Data source  
+* Yummly gives data in JSON
+* Yummly has a ingredients list
+* With the API you can search on ingredients wich results in a list of recipe names with their ingredients
+* You can also search on recipe name wich results in detailed information about the recipe
+* I need to leave out unneccesairy information
+* I need to transform us measurements to metric
+  
+#### Database tables  
+Saved recipes:  
+* recipe id
+* recipe name
+* image url
+* users id
+  
+Grocery list:  
+* ingredient
+* users id
+  
+Points:
+* points
+* users id
