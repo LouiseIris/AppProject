@@ -1,8 +1,8 @@
-#Design Document  
+# Design Document  
   
-####Sketch  
+#### Sketch  
   
-####Classes:  
+#### Classes:  
 Class LogInViewController:  
 * Attributes:
   * emailTextField
@@ -77,7 +77,7 @@ Class GroceryListViewController:
   * Delete function
   * Checkmark funtion
   
-####API's and Frameworks:  
+#### API's and Frameworks:  
 * Yummly
 * Firebase
 * SerchTextField pod
