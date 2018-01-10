@@ -78,8 +78,28 @@ Class GroceryListViewController:
   * Delete function
   * Checkmark funtion
   
+Class PointsViewController:
+* Attributes:
+  * points
+  * savedLabel
+  * leaderboardButton
+* Operations:
+  * 
+  
+Class LeaderboardViewController:
+* Attributes:
+  * users
+  * points
+  * backButton
+* Operations:
+  * HighestScore function to find users with most points in Firebase
+  
 #### API's and Frameworks:  
-* Yummly
-* Firebase
+* Yummly API: https://api.yummly.com
+* Firebase:
+  * Authentication
+  * Database for saved recipes
+  * Database for grocery list
+  * Database for points
 * SerchTextField pod
   
